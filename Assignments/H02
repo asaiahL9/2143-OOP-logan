@@ -11,7 +11,7 @@
 > practice where programmer hides relevant data about an object to reduce complexity and increase efficiency
 
 #### Attributes / Properties
-> 
+> special values that are included within a class/object
 
 #### Class
 > a package of methods that works in a program. private by default but can be made private or protected also
