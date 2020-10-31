@@ -12,4 +12,3 @@
 
 ### Class Game
 * dictates how game is played
-|Blackjack Diagram(https://github.com/asaiahL9/2143-OOP-logan/blob/master/Assignments/P02.1/Blackjack%20(1).png)|
