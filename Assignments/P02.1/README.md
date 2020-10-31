@@ -1,4 +1,4 @@
-##### Class Card
+#### Class Card
 * Not a lot to do here since it really just represents "values" and doesn't have any actions.
 
 ### Class Deck
